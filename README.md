@@ -1,6 +1,6 @@
 # dtbox
 
-### web-based dev-tookits:
+### web-based tookits for developer:
 - [ ] DBMS
 - [ ] redis-gui
 - [ ] elasticsearch-gui
