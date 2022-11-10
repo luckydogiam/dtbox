@@ -1,8 +1,8 @@
 # dtbox
 
-### web-based tookits for developer:
+### Web-based tookits for developer:
 - [ ] DBMS
-- [ ] redis-gui
-- [ ] elasticsearch-gui
-- [ ] api management 
+- [ ] Redis-GUI
+- [ ] Elasticsearch-GUI
+- [ ] Api Management 
 - [ ] so on
